@@ -1,0 +1,16 @@
+body {
+    background-image: url(../img/1587157243_145703_1587159196_noticia_normal.jpg);
+}
+
+.logo {
+    font-family: 'Peralta', cursive;
+}
+
+.logo a {
+    color: rgba(241, 241, 241, 0.9);
+}
+
+.logo a:hover,
+.logo a:active {
+    text-decoration: none;
+}
